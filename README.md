@@ -35,3 +35,8 @@ ACS is a survey, not a parcel census. Its 2020-2024 five-year estimates reflect 
 ## Reproducibility and license
 
 The companion `build.py` regenerates the CSV from the original public Census Reporter response and the prior dataset's CSV. Source API response and input CSV are included as downloaded snapshots with the release identified. The derived compilation is offered under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); U.S. Census source data are public domain. Cite: Cieplechowicz, Richard (Ryszard). *Tampa Bay owner-occupied home values by ZCTA, 2020-2024* (2026). U.S. Census Bureau, ACS 2020-2024 five-year detailed tables B25075 and B25077.
+
+## Links
+- Interactive study page with charts and ZIP tables: https://richardcieplechowicz.com/tampa-bay-owner-home-values-by-zcta-2020-2024/
+- Archived dataset record (Zenodo): https://doi.org/10.5281/zenodo.23114338
+- More Tampa Bay housing data: https://richardcieplechowicz.com/tampa-bay-data/
